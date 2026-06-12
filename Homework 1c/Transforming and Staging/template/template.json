@@ -27,7 +27,7 @@
             "type": "string"
         },
         "location": {
-            "defaultValue": "eastus2",
+            "defaultValue": "southcentralus",
             "type": "string"
         },
         "maxSizeBytes": {
